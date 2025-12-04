@@ -1,0 +1,7 @@
+{
+  "name": "CitySense",
+  "description": "An AI-powered conversational travel planner and event discovery platform that suggests personalized itineraries and events based on your location and interests.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
